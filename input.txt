@@ -1,0 +1,501 @@
+100
+
+3
+E-B SE-R SW-R 
+SE-R N-B 0 
+N-B E-B E-R
+
+3
+E-B SE-R SW-R 
+SE-R N-B E-R 
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3
+E-B SE-R SW-R 
+SE-R N-B E-R 
+N-B E-B 0
+
+3
+E-B SE-R SW-R 
+SE-R N-B E-R 
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3
+E-B SE-R SW-R 
+SE-R N-B E-R 
+N-B E-B 0
+
+3
+E-B SE-R SW-R 
+SE-R N-B E-R 
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3
+E-B SE-R SW-R 
+SE-R N-B E-R 
+N-B E-B 0
+
+3
+E-B SE-R SW-R 
+SE-R N-B E-R 
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3
+E-B SE-R SW-R 
+SE-R N-B E-R 
+N-B E-B 0
+
+3
+E-B SE-R SW-R 
+SE-R N-B E-R 
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3
+E-B SE-R SW-R 
+SE-R N-B E-R 
+N-B E-B 0
+
+3
+E-B SE-R SW-R 
+SE-R N-B E-R 
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3
+E-B SE-R SW-R 
+SE-R N-B E-R 
+N-B E-B 0
+
+3
+E-B SE-R SW-R 
+SE-R N-B E-R 
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3
+E-B SE-R SW-R 
+SE-R N-B E-R 
+N-B E-B 0
+
+3
+E-B SE-R SW-R 
+SE-R N-B E-R 
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3
+E-B SE-R SW-R 
+SE-R N-B E-R 
+N-B E-B 0
+
+3
+E-B SE-R SW-R 
+SE-R N-B E-R 
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3
+E-B SE-R SW-R 
+SE-R N-B E-R 
+N-B E-B 0
+
+3
+E-B SE-R SW-R 
+SE-R N-B E-R 
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
+
+3 
+E-B SE-R SW-R 
+SE-R N-B E-R
+N-B E-B 0
