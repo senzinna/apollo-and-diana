@@ -44,5 +44,11 @@ should be represented using N, S, E, W, NE, NW, SE, SW to represent “north”,
 integer representing the number of squares moved and the direction. Each move should be separated by a
 space
 
+## Running
+To compile the code for project three you only need a simple command
+`“python project_3.py”`
+
+For this project will assume that a file name input.txt will be in the same current working directory. The program will output a file called enzinna.txt in the same current directory.
+
 ## Date Completed
 Spring 2014 - University of South Florida
